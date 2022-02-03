@@ -1,0 +1,5 @@
+# FACE-MASK-DETECTION-
+Hi , welcome to my repo of face mask detetction 
+
+PROGRAMMING LANGUAGE USED : PYTHON <br><br>
+LIBRARIES USED : NUMPY , TENSEFLOW , MATPLOTLIB , OPEN CV .
